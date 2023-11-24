@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/narasimha807/narasimha807/blob/main/Blue%20And%20Green%20Professional%20Technology%20LinkedIn%20Banner.gif)
 
 <h1 align="center">Hi 👋, I'm Narasimha Naidu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
